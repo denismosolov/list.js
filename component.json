@@ -28,7 +28,7 @@
     "segmentio/extend": "*",
     "component/indexof": "*",
     "javve/events": "*",
-    "javve/get-by-class": "*",
+    "denismosolov/get-by-class": "*",
     "javve/get-attribute": "*",
     "javve/natural-sort": "*",
     "javve/to-string": "*",
